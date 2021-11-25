@@ -1,0 +1,16 @@
+{
+  "id": "2964550",
+  "name": "直播app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1070",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
